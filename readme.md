@@ -1,4 +1,4 @@
-###Construindo objetos
+### Construindo objetos
 
 Você já sabe, os objetos são reis! Se você entende de objetos,
 entende JavaScript. Então, nada melhor que praticar a codificação de
@@ -16,7 +16,7 @@ Imagine que você foi contratado(a) para desenvolver um script que
 possa criar objetos dos tipos cliente, telefone e endereço, semelhante
 ao exemplo:
 
-##Objetivos, parte 1
+## Objetivos, parte 1
 
 No script desenvolvido deverá existir funções construtoras para cada
 tipo de objeto.
@@ -28,7 +28,7 @@ construtora do objeto.
 Para cada atributo, deverão existir métodos que permitam recuperar
 o valor do atributo em caixa alta e caixa baixa.
 
-##Objetivos, parte 1
+## Objetivos, parte 1
 
 Os objetos devem possuir um método de acesso, do tipo get, que
 disponibilize a seguinte saída formatada:
@@ -36,7 +36,7 @@ disponibilize a seguinte saída formatada:
 O script deve conter linhas para testar a saída
 formatada, algo como:
 
-##Objetivos, parte 2
+## Objetivos, parte 2
 Além disto, o script deve ser robusto, e disponibilizar funções que
 permitam realizar ordenação de clientes por nome.
 
